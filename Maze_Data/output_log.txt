@@ -1,0 +1,62 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x42)
+    Vendor:   Intel
+    VRAM:     880 MB
+    Driver:   8.15.10.2555
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Maze\Maze_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Maze\Maze_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Maze\Maze_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Maze\Maze_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Maze\Maze_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Maze\Maze_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Maze\Maze_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Maze\Maze_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Maze\Maze_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Maze\Maze_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Maze\Maze_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Maze\Maze_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.061 seconds
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Maze\Maze_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Maze\Maze_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.601428 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 34e8 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.000112 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 598.
+Total: 0.461309 ms (FindLiveObjects: 0.061914 ms CreateObjectMapping: 0.051327 ms MarkObjects: 0.329781 ms  DeleteObjects: 0.017643 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.620104 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 606.
+Total: 0.580646 ms (FindLiveObjects: 0.107146 ms CreateObjectMapping: 0.031117 ms MarkObjects: 0.423775 ms  DeleteObjects: 0.017323 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.519052 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 568.
+Total: 0.352237 ms (FindLiveObjects: 0.033363 ms CreateObjectMapping: 0.021814 ms MarkObjects: 0.288077 ms  DeleteObjects: 0.008340 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.560756 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 466.
+Total: 0.434682 ms (FindLiveObjects: 0.040741 ms CreateObjectMapping: 0.050044 ms MarkObjects: 0.320157 ms  DeleteObjects: 0.022776 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.432116 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 547.
+Total: 0.366031 ms (FindLiveObjects: 0.031117 ms CreateObjectMapping: 0.017002 ms MarkObjects: 0.279415 ms  DeleteObjects: 0.037533 ms)
+
